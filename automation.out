@@ -1,0 +1,18 @@
+02023-05-08 21:50:26 [main] INFO  TC_002:18 - initializing the properties file..(environmen, production, locator, log4jcongig...)
+02023-05-08 21:50:38 [main] INFO  TC_002:21 -  opened the browser:-chrome
+02023-05-08 21:50:50 [main] INFO  TC_002:24 -  Navigatingthe Url:-https://www.amazon.com
+02023-05-08 21:50:51 [main] INFO  TC_002:27 - Selected the option:-Books
+02023-05-08 21:50:52 [main] INFO  TC_002:30 - entered the text:-Harry Potter
+02023-05-08 21:51:00 [main] INFO  TC_002:33 - Clicked on Search element  :-//input[@id='nav-search-submit-button']
+02023-05-10 15:18:49 [main] INFO  TC_002:18 - initializing the properties file..(environmen, production, locator, log4jcongig...)
+02023-05-10 15:19:12 [main] INFO  TC_002:21 -  opened the browser:-chrome
+02023-05-10 15:19:21 [main] INFO  TC_002:24 -  Navigatingthe Url:-https://www.amazon.com
+02023-05-10 15:19:24 [main] INFO  TC_002:27 - Selected the option:-Books
+02023-05-10 15:19:25 [main] INFO  TC_002:30 - entered the text:-Harry Potter
+02023-05-10 15:19:33 [main] INFO  TC_002:33 - Clicked on Search element  :-//input[@id='nav-search-submit-button']
+02023-05-11 16:46:14 [main] INFO  TC_5_Verification:18 - initializing the properties file..(environmen, production, locator, log4jcongig...)
+02023-05-11 16:46:23 [main] INFO  TC_5_Verification:21 -  opened the browser:-chrome
+02023-05-11 16:46:28 [main] INFO  TC_5_Verification:24 -  Navigatingthe Url:-https://www.amazon.com
+02023-05-11 16:47:14 [main] INFO  TC_5_Verification:18 - initializing the properties file..(environmen, production, locator, log4jcongig...)
+02023-05-11 16:47:23 [main] INFO  TC_5_Verification:21 -  opened the browser:-chrome
+02023-05-11 16:47:28 [main] INFO  TC_5_Verification:24 -  Navigatingthe Url:-https://www.amazon.com
